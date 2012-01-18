@@ -1,3 +1,7 @@
+<?php
+header('HTTP/1.1 503 Service Temporarily Unavailable');
+header('Retry-After: Thu, 19 Jan 2012 00:00:00 GMT');
+?>
 <html>
 <head>
 <title>This site is temporarily offline</title>
@@ -34,7 +38,6 @@ a:hover {
 .bills{
   text-decoration:underline;
   color:white;
-  letter-spacing:0px;
 }
 
 .act{
@@ -71,7 +74,7 @@ a:hover {
       House and Senate. Called <a class="bills" href="http://thomas.loc.gov/cgi-bin/bdquery/z?d112:h.r.3261:">SOPA</a> and 
       <a  class="bills" href="http://www.opencongress.org/bill/112-s968/show">PIPA</a>,<br /> these bills threaten 
       to destroy the Internet as we know it.</p>
-      <p>If either one passes, your favorite sites could disappear forever.</p>
+      <p>If either one passes, your favorite sites could disappear forever. Let's <a class="bills" href="https://github.com/SaraJo/SOPA-PIPA-Protest-Page">turn the web OFF today</a> to see what a government-controlled future could look like.</p>
       <hr>
       <a href="http://americancensorship.org/modal/call-form-moz.html">
          <p class="act">ACT NOW.</p>
@@ -81,7 +84,7 @@ a:hover {
         <span> <a class="link" href="https://github.com/SaraJo/SOPA-PIPA-Protest-Page">JOIN US</a></p>
         <p><span> <a class="link" href="https://supporters.eff.org/donate">DONATE TO THE EFF</a></span>
         <span><a class="link" href="http://americancensorship.org/">STOP AMERICAN CENSORSHIP</a></span>
-        <span><a class="link" href="http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">MORE INFO</a></p>
+        <span><a class="link" href="http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">WIKIPEDIA</a></p>
         
 
    <div>

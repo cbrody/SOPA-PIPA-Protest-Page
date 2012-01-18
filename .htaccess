@@ -1,0 +1,6 @@
+# PROTEST SOPA REDIRECT
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{REQUEST_URI} !.*SOPA-PIPA-Protest-Page\.php
+ RewriteRule (.*) http://cbrody.com/SOPA-PIPA-Protest-Page.php [R=302]
+</IfModule>
