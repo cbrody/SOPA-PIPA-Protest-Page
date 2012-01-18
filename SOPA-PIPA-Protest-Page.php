@@ -84,7 +84,7 @@ a:hover {
         <span> <a class="link" href="https://github.com/SaraJo/SOPA-PIPA-Protest-Page">JOIN US</a></p>
         <p><span> <a class="link" href="https://supporters.eff.org/donate">DONATE TO THE EFF</a></span>
         <span><a class="link" href="http://americancensorship.org/">STOP AMERICAN CENSORSHIP</a></span>
-        <span><a class="link" href="http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">WIKIPEDIA</a></p>
+        <span><a class="link" href="http://en.wikipedia.org/wiki/Wikipedia:SOPA_initiative/Learn_more">WIKIPEDIA</a></p>
         
 
    <div>
